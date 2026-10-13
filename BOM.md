@@ -17,7 +17,7 @@
 | [Dht11 sensor](https://protosupplies.com/cart/) | measureing temperature | 1 | $1.95 | $1.95 | [proto supplies](https://protosupplies.com/cart/) |
 | [MPU6050](https://electropeak.com/checkout/cart/) | to detect the movement of the screen | 1 | $1.96 | $1.96 | [electro peak](https://electropeak.com/checkout/cart/) |
 | **Parts subtotal** | — | — | — | **$10.88** | — |
-| **Tax & shipping** | — | — | — | **$19.00** | — |
-| **Total** | — | — | — | **$29.88** | — |
+| **Tax & shipping** | — | — | — | **$19.12** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$0.12 left of the tier's funding.
+$0.00 left of the tier's funding.
