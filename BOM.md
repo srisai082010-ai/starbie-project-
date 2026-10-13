@@ -16,7 +16,7 @@
 | [OLED-Display](https://www.aliexpress.us/item/2251832453416550.html) | The screen | 1 | $1.98 | $1.98 | [aliexpress](https://www.aliexpress.us/item/2251832453416550.html) |
 | [MPU6050](https://electropeak.com/checkout/cart/) | to detect the movement of the screen | 1 | $1.96 | $1.96 | [electro peak](https://electropeak.com/checkout/cart/) |
 | **Parts subtotal** | — | — | — | **$8.93** | — |
-| **Tax & shipping** | — | — | — | **$24.06** | — |
-| **Total** | — | — | — | **$32.99** | — |
+| **Tax & shipping** | — | — | — | **$24.07** | — |
+| **Total** | — | — | — | **$33.00** | — |
 
-**$2.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
