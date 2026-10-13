@@ -14,10 +14,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | brain for the starbie | 1 | $4.99 | $4.99 | [Seeed studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [OLED-Display](https://www.aliexpress.us/item/2251832453416550.html) | The screen | 1 | $1.98 | $1.98 | [aliexpress](https://www.aliexpress.us/item/2251832453416550.html) |
-| [Dht11 sensor](https://protosupplies.com/cart/) | measureing temperature | 1 | $1.95 | $1.95 | [proto supplies](https://protosupplies.com/cart/) |
 | [MPU6050](https://electropeak.com/checkout/cart/) | to detect the movement of the screen | 1 | $1.96 | $1.96 | [electro peak](https://electropeak.com/checkout/cart/) |
-| **Parts subtotal** | — | — | — | **$10.88** | — |
+| **Parts subtotal** | — | — | — | **$8.93** | — |
 | **Tax & shipping** | — | — | — | **$19.12** | — |
-| **Total** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$28.05** | — |
 
-$0.00 left of the tier's funding.
+$1.95 left of the tier's funding.
