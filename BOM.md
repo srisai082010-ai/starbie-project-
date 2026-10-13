@@ -18,7 +18,7 @@
 | [MPU6050](https://electropeak.com/checkout/cart/) | to detect the movement of the screen | 1 | $1.96 | $1.96 | [electro peak](https://electropeak.com/checkout/cart/) |
 | [tactile buttons](https://www.addicore.com/checkouts/cn/hWNHuUVyGUoTdSySnOgLl63U/en-us?_r=AQABv_-gQ7Y55HgHIFnKVUuGmIzUv8CoTCFsaxA2aXVL8qLjJlYk&auto_redirect=false&edge_redirect=true&skip_shop_pay=true) | for the controls | 2 | $0.10 | $0.20 | [addciore](https://www.addicore.com/checkouts/cn/hWNHuUVyGUoTdSySnOgLl63U/en-us?_r=AQABv_-gQ7Y55HgHIFnKVUuGmIzUv8CoTCFsaxA2aXVL8qLjJlYk&auto_redirect=false&edge_redirect=true&skip_shop_pay=true) |
 | **Parts subtotal** | — | — | — | **$11.08** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.08** | — |
+| **Tax & shipping** | — | — | — | **$18.03** | — |
+| **Total** | — | — | — | **$29.11** | — |
 
-$18.92 left of the tier's funding.
+$0.89 left of the tier's funding.
